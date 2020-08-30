@@ -10,7 +10,7 @@ This folder contains all used graphics.
 
 ## Dokumentacja
 
-This folder contains documentation in Polish.
+That folder contains documentation in Polish.
 
 ## prettyfont
 
