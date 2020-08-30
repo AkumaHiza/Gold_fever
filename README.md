@@ -1,22 +1,22 @@
 # Gold_fever
-##Game in C
+## Game in C
 
 This game was created as a final project for programming classes at the university.
 The game was written in C using the SDL2 library.
 
-##Graphics
+## Graphics
 
 This folder contains all used graphics.
 
-##Dokumentacja
+## Dokumentacja
 
 This folder contains documentation in Polish.
 
-##prettyfont
+## prettyfont
 
 It's the font I used to show scores on the screen.
 
-##main, naglowki,funkcje
+## main, naglowki,funkcje
 
 There is C code files.
 The details are written in the "Dokumentacja" file.
