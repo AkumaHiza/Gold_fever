@@ -21,5 +21,7 @@ It's the font I used to show scores on the screen.
 There is C code files.
 The details are written in the "Dokumentacja" file.
 
+![Screenshot](Graphics/die.bmp)
+
 
 
