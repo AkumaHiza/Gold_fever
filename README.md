@@ -16,10 +16,9 @@ That folder contains documentation in Polish.
 
 It's the font I used to show scores on the screen.
 
-## main, naglowki,funkcje
+## main.c, naglowki.c,funkcje.c
 
 There is C code files.
-The details are written in the "Dokumentacja" file.
 #### I'm still working on this game.
 ### Thanks for reading.
 
